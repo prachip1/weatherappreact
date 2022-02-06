@@ -1,0 +1,15 @@
+.card {
+    border-radius: 25px;
+}
+
+.box {
+    
+    border-radius: 25px;
+    -webkit-box-shadow: 0 0 70px -10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 70px -10px rgba(0, 0, 0, 0.2);
+    background-color:#535D6E;
+    color:whitesmoke;
+    width: 85%;
+    max-width: 675px;
+    min-height: 300px;
+}
